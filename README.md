@@ -1,4 +1,4 @@
-# JobSyncr - Full-Stack Placement Portal
+# JobSyncr - Full-Stack Placement Portal 🎓
 
 JobSyncr is a robust, full-stack placement portal designed to streamline the recruitment process within academic institutions. Built using a decoupled client-server architecture, the platform features role-based access control (RBAC) to provide customized experiences for students, corporate recruiters, and institutional administrators.
 
@@ -29,5 +29,4 @@ JobSyncr is a robust, full-stack placement portal designed to streamline the rec
 ---
 
 ## 📊 Database Architecture & Schema Design
-
-[cite_start]The application utilizes an optimized relational database schema designed to handle high-concurrency operations and analytical queries seamlessly[cite: 27].
+The application utilizes an optimized relational database schema designed to handle high-concurrency operations and analytical queries seamlessly.
