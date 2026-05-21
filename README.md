@@ -4,27 +4,27 @@ JobSyncr is a robust, full-stack placement portal designed to streamline the rec
 
 ## Key Features & Functionality
 
-**Role-Based Access Control (RBAC):** Separate, secure dashboards tailored specifically for Students, Company HRs, and Institute Admins.
-**Dynamic Job Application Pipelines:** Automated application tracking workflow from job posting to final hiring selection.
-**Advanced Analytics & Reporting:** Dedicated admin and company dashboards featuring complex data filtering, student performance aggregations, and recruitment tracking metrics.
-**Optimized Performance:** Implemented efficient front-end state management to minimize redundant API payload delivery during multi-step application wizard forms.
+* **Role-Based Access Control (RBAC):** Separate, secure dashboards tailored specifically for Students, Company HRs, and Institute Admins.
+* **Dynamic Job Application Pipelines:** Automated application tracking workflow from job posting to final hiring selection.
+* **Advanced Analytics & Reporting:** Dedicated admin and company dashboards featuring complex data filtering, student performance aggregations, and recruitment tracking metrics.
+* **Optimized Performance:** Implemented efficient front-end state management to minimize redundant API payload delivery during multi-step application wizard forms.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Front-End
-**Framework:** Vue.js (Single Page Application architecture)
-**Styling:** Bootstrap (Fully responsive layout)
-**State Management & Routing:** Vue Router & Native Vue State Management
+* **Framework:** Vue.js (Single Page Application architecture)
+* **Styling:** Bootstrap (Fully responsive layout)
+* **State Management & Routing:** Vue Router & Native Vue State Management
 
 ### Back-End
-**Core Framework:** Flask (Python)
-**API Design:** RESTful Architecture
-**ORM:** SQLAlchemy
+* **Core Framework:** Flask (Python)
+* **API Design:** RESTful Architecture
+* **ORM:** SQLAlchemy
 
 ### Database
-**Production/Development:** PostgreSQL / SQLite (for rapid prototyping validation)
+* **Production/Development:** PostgreSQL / SQLite (for rapid prototyping validation)
 
 ---
 
